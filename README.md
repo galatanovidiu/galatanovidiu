@@ -47,18 +47,19 @@ Some of my projects:
 - Euroblox.com Ads website (Laravel)
 - DXC Surgical Operations Simulator (My main role on this was to build the wrapper app for the simulator (starting the simulator as a batch AWS process, store data, data calculations and manipulation, VueJs interfaces, Users login....)) (Laravel, VueJS)
 - And lots of websites like: 
-https://thedetroitbureau.com, 
-https://protectmycarwarranties.com/ , 
-https://impact.intouniversity.org
-https://www.peststrategies.com/exterminators/, 
-https://personalgourmetmeals.com/, 
-https://london.picklebarrelcatering.com/ 
-https://impact.intouniversity.org/, 
-https://riverandwolf.com/, 
-https://www.vikingcold.com/, 
-https://grafikstudiostamer.de/
-https://www.theaccessbankukltd.co.uk/
-https://www.sensiblesavings.co.uk/
-https://www.dovetailsvintage.co.uk/
+  - https://thedetroitbureau.com, 
+  - https://protectmycarwarranties.com/ , 
+  - https://impact.intouniversity.org
+  - https://www.peststrategies.com/exterminators/, 
+  - https://personalgourmetmeals.com/, 
+  - https://london.picklebarrelcatering.com/ 
+  - https://impact.intouniversity.org/, 
+  - https://riverandwolf.com/, 
+  - https://www.vikingcold.com/, 
+  - https://grafikstudiostamer.de/
+  - https://www.theaccessbankukltd.co.uk/
+  - https://www.sensiblesavings.co.uk/
+  - https://www.dovetailsvintage.co.uk/
+
 and many more ....
 
