@@ -46,6 +46,19 @@ Some of my projects:
 - Projects and Products management for Carson Corporation https://cloud.carsoncorporation.net/ (Web App, built on top of WordPress and WooCommerce)
 - Euroblox.com Ads website (Laravel)
 - DXC Surgical Operations Simulator (My main role on this was to build the wrapper app for the simulator (starting the simulator as a batch AWS process, store data, data calculations and manipulation, VueJs interfaces, Users login....)) (Laravel, VueJS)
-- And lots of websites like: https://thedetroitbureau.com, https://protectmycarwarranties.com/ , https://www.xn--lnea-qoa.se/, https://hemsol.se/, https://www.peststrategies.com/exterminators/, https://personalgourmetmeals.com/, https://london.picklebarrelcatering.com/ https://impact.intouniversity.org/, https://riverandwolf.com/, https://www.vikingcold.com/, and many more ....
-
+- And lots of websites like: 
+https://thedetroitbureau.com, 
+https://protectmycarwarranties.com/ , 
+https://impact.intouniversity.org
+https://www.peststrategies.com/exterminators/, 
+https://personalgourmetmeals.com/, 
+https://london.picklebarrelcatering.com/ 
+https://impact.intouniversity.org/, 
+https://riverandwolf.com/, 
+https://www.vikingcold.com/, 
+https://grafikstudiostamer.de/
+https://www.theaccessbankukltd.co.uk/
+https://www.sensiblesavings.co.uk/
+https://www.dovetailsvintage.co.uk/
+and many more ....
 
