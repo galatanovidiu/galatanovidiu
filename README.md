@@ -2,7 +2,7 @@
 
 ## General Things 
 
-My name is Galatan Ovidiu Iulian;
+My name is Galatan Ovidiu Iulian. I'm married and I have 2 kids 9 and 7 years old.
 
 I'm a full-stack web developer.
 
@@ -13,7 +13,7 @@ The stack I use is PHP/MySql/JS (also a bit of Python from time to time)
 
 ### Backend:
 
-On the backend I'm using extensively frameworks/libraries/CMS like: Laravel, WordPress, Symfony ...
+On the backend I'm using extensively frameworks/libraries/CMS like: Laravel, WordPress, Symfonyand in the past I've used Yii also.
 
 ### Frontend: 
 
