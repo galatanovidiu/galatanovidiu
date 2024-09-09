@@ -1,7 +1,3 @@
-# Ovidiu Iulian Galatan
-
-**Fullstack Web Developer**
-
 With over 18 years of experience specializing in PHP and JavaScript, I deliver innovative and tailored web solutions. My expertise spans a range of frameworks and technologies, with a passion for pushing the boundaries of what's possible in web development.
 
 **Core Competencies**
