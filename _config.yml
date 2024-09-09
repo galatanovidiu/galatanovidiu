@@ -1,0 +1,6 @@
+title: Galatan Ovidiu - Fullstack Web Developer
+description: Professional CV and portfolio of Galatan Ovidiu, a fullstack web developer
+author: Galatan Ovidiu
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
