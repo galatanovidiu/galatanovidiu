@@ -1,4 +1,4 @@
-# Hi, I'm Ovidiu 👋
+# Hi, I'm Ovi 👋
 
 Applied AI Code Wrangler at [Automattic](https://automattic.com) — I work on
 making WordPress a first-class platform for AI agents.
